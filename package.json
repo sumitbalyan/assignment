@@ -11,7 +11,7 @@
     "react-bootstrap-table-next": "^3.1.7",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "xlsx": "^0.14.4"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
